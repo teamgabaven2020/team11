@@ -2,20 +2,18 @@
     display: flex;
     justify-content:center;
     background-color: red;
-    height:70px;
+    height:80px;
     border:double;
     position:relative;
 }
 .center-box{
     text-align: center;
-    height:50px;
+    height:60px;
     color:white;
 }
 .right-box{
     right:0;
     padding: 10px 10px;
-    text-decoration: none;
-    color:white;
     position:absolute;
     
 }

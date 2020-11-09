@@ -1,0 +1,24 @@
+.body{
+    width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+    border: double;
+    border-color: black;
+    border-left-width: 6px;
+    border-right-width: 6px;
+    border-bottom-width: 6px;
+}
+.home{
+    height: 880px;
+    position: relative;
+}
+.usericon{   
+    top: 20px;
+    left: 10px;
+    position: absolute;
+}
+.message{
+    top: 20px;
+    right: 10px;
+    position: absolute;
+}
