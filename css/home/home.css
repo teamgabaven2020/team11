@@ -22,3 +22,17 @@
     right: 10px;
     position: absolute;
 }
+.avatar{
+    top: 180px;
+    left: 100px;
+    width: 400px;
+    height: 450px;
+    position: absolute;
+}
+.kiroku{
+    top: 180px;
+    right: 10px;
+    width: 200px;
+    height: 400px;
+    position: absolute;
+}
